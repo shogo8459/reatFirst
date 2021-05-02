@@ -19,7 +19,6 @@ function App() {
             <CarList/>
           </Route>
         </Switch>
-        
       </div>
     </BrowserRouter>
   );
